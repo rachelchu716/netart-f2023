@@ -1,6 +1,6 @@
 body {
-  background-color: lemonchiffon;
-  font-size: 60px;
+  background-color: olive;
+  font-size: 60 px;
   font-family: Arial;
   text-align: center;
 }
@@ -8,7 +8,7 @@ body {
 h1 {
   color: deepskyblue;
   font-style: italic;
-  padding-top: 10px;
+  padding-top: 10 px;
 }
 
 .title {
@@ -16,14 +16,14 @@ h1 {
 }
 
 p {
-  font-size: 45px;
+  font-size: 45 px;
 }
 
 div {
-    width: 40px;
-    padding: 50px;
-    margin: 80px;
-    border: 10px solid black;
+    width: 40 px;
+    padding: 50 px;
+    margin: 80 px;
+    border: 10 px solid black;
 }
 
 #theend {
