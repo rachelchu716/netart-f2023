@@ -1,0 +1,31 @@
+body {
+  background-color: lemonchiffon;
+  font-size: 60px;
+  font-family: Arial;
+  text-align: center;
+}
+
+h1 {
+  color: deepskyblue;
+  font-style: italic;
+  padding-top: 10px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+p {
+  font-size: 45px;
+}
+
+div {
+    width: 40px;
+    padding: 50px;
+    margin: 80px;
+    border: 10px solid black;
+}
+
+#theend {
+    color: black;
+}
