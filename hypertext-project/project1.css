@@ -1,0 +1,19 @@
+h1 {
+    background-color: black;
+    font: Arial;
+    color: slateblue;
+    font-size: 30px;
+}
+
+p {
+    color: sienna;
+    font-size: 24px;
+    font: Arial;
+    text-align: center;
+    background-color: plum;
+}
+
+.container {
+    max-width: 500px;
+    margin-left: 10;
+}

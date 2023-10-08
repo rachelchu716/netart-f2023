@@ -1,0 +1,14 @@
+p {
+    background-color: lightpink;
+    padding-top: 10px;
+    font-size: 24px;
+    font-family: Arial;
+    text-align: center;
+  }
+
+div {
+    width: 40px;
+    padding: 50px;
+    margin: 80px;
+    border: 10px solid black;
+}
